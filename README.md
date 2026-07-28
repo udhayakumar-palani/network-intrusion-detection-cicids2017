@@ -20,8 +20,6 @@ Network intrusion detection systems increasingly rely on deep learning, but deep
 | File | Description |
 |---|---|
 | `IDS_CICIDS2017_Notebook.ipynb` | Full implementation — data loading, preprocessing, CFS, 4-model training, evaluation, SHAP |
-| `Final_Report.pdf` / `.docx` | Complete research report (18 pages) with literature review, methodology, results, and discussion |
-| `Final_Presentation.pptx` / `.pdf` | 11-slide presentation deck for a 10-minute talk, with speaker notes |
 | `Demo_Cheat_Sheet.md` | Live-demo script for presenting the SHAP analysis in Google Colab |
 | `architecture.png` | System architecture diagram (5-stage pipeline) |
 | `figures/` | All output figures: class distribution, feature correlation, confusion matrices, ROC curves, SHAP plots |
@@ -43,7 +41,7 @@ Network intrusion detection systems increasingly rely on deep learning, but deep
 - Random Forest and XGBoost+SMOTE outperform both deep models overall on this binary task — an honest finding that classical and imbalance-aware methods remain highly competitive.
 - SHAP attribution identifies backward-direction packet-length statistics as the dominant features, independently confirmed by the Pearson correlation ranking — giving security analysts an audit trail for trusting alerts.
 
-See `Final_Report.pdf` for the complete discussion, literature review (18 IEEE-published references), and limitations/future work.
+See the project notebook and its concluding section for the full discussion, literature review, and limitations/future work.
 
 ## How to run
 
