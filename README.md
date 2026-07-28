@@ -20,7 +20,6 @@ Network intrusion detection systems increasingly rely on deep learning, but deep
 | File | Description |
 |---|---|
 | `IDS_CICIDS2017_Notebook.ipynb` | Full implementation — data loading, preprocessing, CFS, 4-model training, evaluation, SHAP |
-| `Demo_Cheat_Sheet.md` | Live-demo script for presenting the SHAP analysis in Google Colab |
 | `architecture.png` | System architecture diagram (5-stage pipeline) |
 | `figures/` | All output figures: class distribution, feature correlation, confusion matrices, ROC curves, SHAP plots |
 | `results_summary.csv` | Comparative metrics table (accuracy, precision, recall, F1, FPR, ROC-AUC, training time) for all four models |
