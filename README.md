@@ -2,7 +2,7 @@
 
 Correlation-based feature selection with a hybrid CNN-LSTM classifier, benchmarked against Random Forest, a base-paper-style LSTM, and XGBoost+SMOTE, with SHAP interpretability.
 
-**MSc Cybersecurity Project** — H9AIMLC AI/ML in Cybersecurity, National College of Ireland
+
 **Author:** Udhaya Kumar Palani (23306891)
 
 ---
