@@ -64,3 +64,4 @@ jupyter notebook IDS_CICIDS2017_Notebook.ipynb
 
 [CICIDS2017](https://www.unb.ca/cic/datasets/ids-2017.html) (Sharafaldin, Lashkari and Ghorbani, 2018) — five days of realistic enterprise network traffic, ~2.83 million flows, 78 statistical features extracted with CICFlowMeter, seven attack categories (DoS, DDoS, brute force, port scan, web attack, infiltration, botnet).
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21926600.svg)](https://doi.org/10.5281/zenodo.21926600)
